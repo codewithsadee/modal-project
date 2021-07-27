@@ -10,5 +10,5 @@ A good example of a modal window would be if a user made changes in a site witho
 * classList.remove()
 
 ### Screenshots
-> ![Modal Project Screenshot 1](https://github.com/mohammadtokee/modal-project/blob/master/assets/images/screenshot-1.png "Modal Project Screenshot 1")
-> ![Modal Project Screenshot 2](https://github.com/mohammadtokee/modal-project/blob/master/assets/images/screenshot-2.png "Modal Project Screenshot 2")
+> ![Modal Project Screenshot 1](https://github.com/codewithsadee/modal-project/blob/master/assets/images/screenshot-1.png "Modal Project Screenshot 1")
+> ![Modal Project Screenshot 2](https://github.com/codewithsadee/modal-project/blob/master/assets/images/screenshot-2.png "Modal Project Screenshot 2")
